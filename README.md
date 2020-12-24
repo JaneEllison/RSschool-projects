@@ -13,6 +13,8 @@
 Реализация классической игры в пятнашки. 
 + [English for kids](https://rolling-scopes-school.github.io/janeellison-JS2020Q3/english-for-kids/dist/)
 Приложение для изучения английских слов детьми.
++ [Covid dashboard](https://rolling-scopes-school.github.io/janeellison-JS2020Q3/covid-dashboard/build/)
+Приложение для отслеживания распространения COVID-19 в мире и в отдельных странах. Делали в команде из 2ух человек.
 
  ### Other projects:
 + [Distance](https://janeellison.github.io/Distance/)
