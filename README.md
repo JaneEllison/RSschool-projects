@@ -20,6 +20,8 @@
 Верстка страницы согласно макету в Figma. 
 
  ### Other projects:
+ + [Netclicks](https://janeellison.github.io/Netclicks/)
+Сайт с поиском фильмов.
 + [Distance](https://janeellison.github.io/Distance/)
 Верстка страницы согласно макету в Figma. Адаптив.
 + [Охотники за привидениями](https://janeellison.github.io/ghostbusters/)
